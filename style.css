@@ -420,9 +420,11 @@ ul p{
  }
  .pages{
     padding-top: 25px;
+    font-size: 13px;
  }
 .copyright{
-    padding-top: 5px;      
+    padding-top: 5px;
+    font-size: 13px;      
 }
 
 /* ------------- MEDIA QUERY ----------------*/
